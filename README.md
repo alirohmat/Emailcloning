@@ -14,7 +14,7 @@
 
 - ` pip2 install requests `
 
-- `python2 fb-emails.py`
+- `python2 emailcloning.py`
 
 > I am not responsible for this Tools 
 ![Screenshot_20200902-092619.png](https://user-images.githubusercontent.com/52023076/91934508-67e1df80-eca0-11ea-8421-94037977c666.png)
